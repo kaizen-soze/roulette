@@ -19,3 +19,5 @@ spins.
 
 While the probability of a set of 4 or 5 spins landing on a certain color is low, the probability of each spin is only 50%. The roulette
 table has no memory, and you're not betting on 4 or 5 spins in a row...you're betting on the outcome of a particular spin.
+
+What can I say? Humans are bad at statistics.
